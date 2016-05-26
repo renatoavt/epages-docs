@@ -36,7 +36,7 @@ include:
 
 # Search index settings
 search:
-  host: localhost:9200
+  host: 127.0.0.1:9200
   index:
     name: epages-docs
     settings:
